@@ -44,6 +44,9 @@ body {
   border-radius: 10px;
   border: 1px solid cyan;
 }
+.rate-count{
+  color: gray;
+}
 .product-image {
   width: 150px;
   height: 150px;
